@@ -1,6 +1,6 @@
 ### NAME:SUDARSAN.A
 ### REG NO:24900190
-### EXP NO 3:IMPLEMENTATION-OF-HALF-ADDER-AND-HALF SUBTRACTOR-CIRCUIT
+### EXP NO 3:IMPLEMENTATION OF HALF ADDER AND HALF SUBTRACTOR CIRCUIT
 
 ### AIM:
 
@@ -65,4 +65,4 @@ Figure -02 HALF Subtractor
 
 
 ### Result:
-Implementation-of-Half-Adder-and-Half Subtractor-circuit is successfully implemented qnd verified.
+Implementation-of-Half-Adder-and-Half Subtractor-circuit is successfully implemented and verified.
