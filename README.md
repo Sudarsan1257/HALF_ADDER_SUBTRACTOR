@@ -65,4 +65,4 @@ Figure -02 HALF Subtractor
 
 
 ### Result:
-Implementation-of-Half-Adder-and-Half Subtractor-circuit is successfully implemented and verified.
+The output for Implementation of Half Adder and Half Subtractor circuit is successfully implemented and verified.
